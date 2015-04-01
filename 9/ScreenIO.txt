@@ -1,0 +1,12 @@
+La Jolla  11
+Orange  17
+Del Mar  18
+Brea  19
+Aliso Viejo  22
+Riverside  26
+Palm Springs  32
+Tustin  35
+Irvine  44
+Laguna Beach  49
+Oceanside  52
+Los Angeles  73
